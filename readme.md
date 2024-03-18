@@ -1,0 +1,1 @@
+This is a minesweeper game created with html + css + javascript
